@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
              'name' => 'Super Admin',
              'email' => 'superadmin@example.com',
              "superadmin" => 1,
-             "password" => Hash::make("777")
+             "password" => Hash::make("k@r1mz3rk@l0")
 
          ]);
     }
